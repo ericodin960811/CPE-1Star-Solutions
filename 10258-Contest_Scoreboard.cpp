@@ -71,4 +71,4 @@ int main() {
     return 0;
 }
 // Accepted	0.000
-// 難爆又煩，根本寫不出來。
+// 超煩
